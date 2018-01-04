@@ -16,3 +16,7 @@ body {
 button {
     font-weight: 400;
 }
+
+.modal-title {
+    color: #7c7a7a;
+}
